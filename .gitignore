@@ -1,2 +1,14 @@
+# Folders
+bin/**
+.idea/**
+.settings/**
+build/**
 
-target/
+# Java
+*.class
+*.jar
+target/**
+
+# IDE Files
+.classpath
+*.iml
